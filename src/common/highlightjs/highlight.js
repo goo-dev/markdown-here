@@ -539,7 +539,7 @@ var hljs = new function() {
   var options = {
     classPrefix: 'hljs-',
     tabReplace: null,
-    useBR: false,
+    useBR: true,
     languages: undefined
   };
 
